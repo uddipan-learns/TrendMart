@@ -32,6 +32,20 @@ Products are fetched from: https://api.escuelajs.co/api/v1/products
 
 open the `index.html` file in any web browser.
 
+## Preview
+
+### Homepage
+![Screenshot 1](preview/screenshot-1.png)
+
+### Product Listing
+![Screenshot 2](preview/screenshot-2.png)
+
+### Interest Form
+![Screenshot 3](preview/screenshot-3.png)
+
+### Footer
+![Screenshot 4](preview/screenshot-4.png)
+
 ---
 
 **Christ University**
