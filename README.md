@@ -1,10 +1,10 @@
 # TrendMart Product Explorer
 
-**Name:** Uddipan Dey
-**Registration No:** 25045008
-**Course:** Full Stack Development (MAI-OL-423-1)
-**Program:** M.Sc AIML Online - Semester I
-**Assignment:** CIA-1 – October 2025
+- **Name:** Uddipan Dey
+- **Registration No:** 25045008
+- **Course:** Full Stack Development (MAI-OL-423-1)
+- **Program:** M.Sc AIML Online - Semester I
+- **Assignment:** CIA-1 – October 2025
 
 ## About the Project
 
@@ -35,15 +35,19 @@ open the `index.html` file in any web browser.
 ## Preview
 
 ### Homepage
+
 ![Screenshot 1](preview/screenshot-1.png)
 
 ### Product Listing
+
 ![Screenshot 2](preview/screenshot-2.png)
 
 ### Interest Form
+
 ![Screenshot 3](preview/screenshot-3.png)
 
 ### Footer
+
 ![Screenshot 4](preview/screenshot-4.png)
 
 ---
